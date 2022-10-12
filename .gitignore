@@ -1,2 +1,2 @@
-plots/*
-*.ipynb_checkpoints/*
+*.ipynb_checkpoints*
+plots/**.png
